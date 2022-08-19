@@ -1,1 +1,121 @@
-/* Copy and paste your CSS from CodePen into here */
+main {
+    background-color: #154d63;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 25px 25px 15px 25px;
+    font-family: "Dancing Script", cursive;
+  }
+  
+  #title {
+    margin-top: -5px;
+    font-size: 100px;
+  }
+  
+  body {
+    background-color: #edf5f7;
+    font-family: "Montserrat", sans-serif;
+    display: block;
+  }
+  
+  #subtitle {
+    margin-top: -40px;
+    font-size: 60%;
+    font-family: "Montserrat", sans-serif;
+    color: #f06424;
+  }
+  
+  img {
+    display: flex;
+  }
+  
+  #main-image {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  #body-image {
+    margin-top: 20px;
+    max-width: 50%;
+    height: auto;
+    /*   display: block; */
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  #img-div {
+    margin-top: 20px;
+  }
+  
+  ul {
+    text-align: justify;
+    list-style-position: inside;
+  }
+  
+  #img-caption {
+    font-size: 80%;
+    margin-top: 10px;
+    color: gray;
+    text-align: center;
+  }
+  
+  .text {
+    font-family: "Inter", sans-serif;
+    text-align: justify;
+    margin: 25px 50px 50px 50px;
+    color: #2b2b2b;
+    display: block;
+  }
+  
+  .story-title {
+    text-align: center;
+    background-color: #154d63;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: "Montserrat", sans-serif;
+    display: block;
+  }
+  
+  #citation {
+    font-size: 90%;
+    color: gray;
+    margin: 30px 100px 30px 100px;
+  }
+  
+  p {
+    text-indent: 3%;
+  }
+  
+  #career-highlights {
+    text-align: center;
+    font-size: 120%;
+  }
+  
+  footer {
+    text-align: center;
+  }
+  
+  a {
+    color: #f06424;
+  }
+  
+  footer,
+  div {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+  }
+  
+  #sources {
+    font-size: 80%;
+    text-align: center;
+  }
